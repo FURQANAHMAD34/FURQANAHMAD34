@@ -124,8 +124,9 @@ $ echo $CREED
 > **AI-powered runtime vulnerability detection & patching** — a hybrid static + dynamic detection engine that unifies
 > open-source security tools and suggests automated runtime patches for developers.
 
-> ### 🔗 &nbsp;[CPTS-cheatsheet](https://github.com/FURQANAHMAD34/CPTS-cheatsheet) &nbsp;<sub>`public`</sub>
-> A practical **HackTheBox Certified Penetration Tester Specialist** cheat-sheet — attack paths, commands, and methodology notes.
+> ### 🌐 &nbsp;[Portfolio Website](https://furqanahmad34.github.io/furqan-portfolio/) &nbsp;<sub>`live` · GitHub Pages</sub>
+> My **Cyber Security Analyst portfolio** — experience, projects, certifications & achievements in one place.
+> &nbsp; → [furqanahmad34.github.io/furqan-portfolio](https://furqanahmad34.github.io/furqan-portfolio/)
 
 ---
 
