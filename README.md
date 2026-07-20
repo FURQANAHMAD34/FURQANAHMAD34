@@ -95,16 +95,16 @@ $ echo $CREED
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=FURQANAHMAD34&show_icons=true&hide_border=true&theme=chartreuse-dark&icon_color=17b3a6&title_color=17b3a6&count_private=true" alt="stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FURQANAHMAD34&layout=compact&hide_border=true&theme=chartreuse-dark&title_color=17b3a6&langs_count=8" alt="langs"/>
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=FURQANAHMAD34&show_icons=true&hide_border=true&theme=chartreuse-dark&icon_color=17b3a6&title_color=17b3a6&count_private=true" alt="stats"/>
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FURQANAHMAD34&layout=compact&hide_border=true&theme=chartreuse-dark&title_color=17b3a6&langs_count=8" alt="langs"/>
 
 <br/>
 
-<img height="165" src="https://github-readme-streak-stats.demolab.com?user=FURQANAHMAD34&hide_border=true&theme=chartreuse-dark&ring=17b3a6&fire=17b3a6&currStreakLabel=17b3a6" alt="streak"/>
+<img height="165" src="https://streak-stats.demolab.com?user=FURQANAHMAD34&hide_border=true&theme=chartreuse-dark&ring=17b3a6&fire=17b3a6&currStreakLabel=17b3a6" alt="streak"/>
 
 <br/>
 
-<img width="88%" src="https://github-profile-trophy.vercel.app/?username=FURQANAHMAD34&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=6" alt="trophies"/>
+<img width="88%" src="https://github-profile-trophy-eight.vercel.app/?username=FURQANAHMAD34&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=6" alt="trophies"/>
 
 </div>
 
