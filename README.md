@@ -2,17 +2,18 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b4f66,100:17b3a6&height=190&section=header&text=Furqan%20Ahmad&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Security%20Researcher%20%C2%B7%20Bug%20Bounty%20Hunter%20%C2%B7%20Offensive-Security%20Automation&descSize=18&descAlignY=60" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b4f66,100:17b3a6&height=200&section=header&text=Furqan%20Ahmad&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Cyber%20Security%20Analyst%20%C2%B7%20Offensive%20Security%20%C2%B7%20Reverse%20Engineering%20%C2%B7%20Malware%20Analysis&descSize=17&descAlignY=58" alt="header"/>
 
 <a href="https://github.com/FURQANAHMAD34">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=17B3A6&center=true&vCenter=true&width=720&lines=Recon+%E2%86%92+Fuzz+%E2%86%92+Exploit+%E2%86%92+Verify+%E2%86%92+Report;DAST+%2B+SAST+automation+for+bug+bounty;Turning+recon+noise+into+VERIFIED+findings;Authorized+testing+only+%E2%80%94+hack+responsibly" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=17B3A6&center=true&vCenter=true&width=760&lines=Offensive+Security+%C2%B7+Pentesting+%C2%B7+Red+Team;Reverse+Engineering+%26+Malware+Analysis;Recon+%E2%86%92+Exploit+%E2%86%92+Verify+%E2%86%92+Report;BlackHat+MEA+Finalist+%2724+%C2%B7+IEEE+Published;Authorized+testing+only+%E2%80%94+hack+responsibly" alt="typing" />
 </a>
 
 <br/>
 
+<img src="https://img.shields.io/badge/📍_Islamabad,_Pakistan-0b4f66?style=flat-square" alt="loc"/>
+<img src="https://img.shields.io/badge/🏆_BlackHat_MEA_Finalist_2024-000000?style=flat-square" alt="bhmea"/>
+<img src="https://img.shields.io/badge/📄_IEEE_Published-00629B?style=flat-square&logo=ieee&logoColor=white" alt="ieee"/>
 <img src="https://komarev.com/ghpvc/?username=FURQANAHMAD34&label=Profile%20views&color=17b3a6&style=flat-square" alt="views"/>
-<img src="https://img.shields.io/badge/Focus-Web%20AppSec-0b4f66?style=flat-square" alt="focus"/>
-<img src="https://img.shields.io/badge/OS-Fedora%20%2F%20Linux-51A2DA?style=flat-square&logo=fedora&logoColor=white" alt="os"/>
 
 </div>
 
@@ -22,25 +23,40 @@
 
 ```bash
 $ whoami
-Furqan Ahmad — security researcher & bug-bounty hunter
+Furqan Ahmad — Cyber Security Analyst  |  Islamabad, Pakistan
 
 $ cat ~/.focus
-> web application security · authorized penetration testing
-> recon → enumeration → fuzzing → exploitation → verified PoC
-> building one-command offensive-security automation
+> offensive security · reverse engineering · malware analysis · threat hunting
+> web · API · network · cloud · mobile (Android/iOS) · binary exploitation
+> penetration testing, exploit development, and security automation
 
-$ ls ~/hunting/
-idor  bola  ssrf  injection  auth-flaws  subdomain-takeover  exposed-secrets
+$ cat ~/.highlights
+> 🏆 BlackHat MEA Finalist 2024 (Riyadh, KSA) · Winner Cyber Storm 2024
+> 📄 IEEE Xplore published author (2023)
+> 🔓 responsibly disclosed a CRITICAL auth-bypass on government infrastructure
+> 🔎 mapped 100+ hidden subdomains & misconfigured assets on enterprise scope
 
 $ echo $CREED
 "Proof is the EFFECT in the response — not the scanner's label."
 ```
 
-- 🔭 &nbsp;I build **automation that turns hours of recon into minutes** and **noise into verified findings**
-- 🐛 &nbsp;I hunt real impact: broken access control, SSRF, injection, auth logic, takeovers, leaked keys
-- 📚 &nbsp;Always chasing the newest attack classes — HTTP desync, cache poisoning, prototype pollution, GraphQL abuse
-- 🐧 &nbsp;Live in the terminal on **Fedora / Linux**, with a lab full of scanners and custom templates
-- 🤝 &nbsp;**Authorized targets only** — bug-bounty scope, signed engagements, and my own systems
+---
+
+## 🎯 &nbsp;Core Competencies
+
+| 🔴 Offensive Security | 🧬 Reverse Engineering & Malware |
+|---|---|
+| Web · API · Network · Cloud pentesting | Static & dynamic analysis (Windows / Linux binaries) |
+| Active Directory exploitation & privilege escalation | Android APK reverse engineering (Ghidra · JADX) |
+| Binary exploitation (buffer overflow, heap) | Memory forensics & IOC development |
+| Attack-surface mapping & reconnaissance | Deobfuscation & protection-bypass techniques |
+
+| 🔵 Blue Team & Defense | 🕵️ Digital Forensics |
+|---|---|
+| SIEM / SOAR — Wazuh · QRadar · Kibana | Windows log analysis (access · lateral movement · privesc) |
+| IDS / IPS — Snort | Live & post-mortem memory forensics (Volatility) |
+| Log analysis & incident response | Disk / artifact analysis & timeline reconstruction |
+| Threat detection & monitoring | Malware triage & anti-forensics detection |
 
 ---
 
@@ -48,46 +64,79 @@ $ echo $CREED
 
 <div align="center">
 
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Offensive Security**
-
+**Recon · DAST**
+&nbsp;
 ![Nuclei](https://img.shields.io/badge/Nuclei-2E8B57?style=for-the-badge&logo=projectdiscovery&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![sqlmap](https://img.shields.io/badge/sqlmap-C62828?style=for-the-badge&logo=databricks&logoColor=white)
-![ffuf](https://img.shields.io/badge/ffuf-6A1B9A?style=for-the-badge&logo=fastapi&logoColor=white)
-![Semgrep](https://img.shields.io/badge/Semgrep-1B2A4A?style=for-the-badge&logo=semgrep&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2A2A2A?style=for-the-badge&logo=metasploit&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-00417B?style=for-the-badge&logo=tenable&logoColor=white)
+![Acunetix](https://img.shields.io/badge/Acunetix-006F44?style=for-the-badge)
+![Subfinder](https://img.shields.io/badge/Subfinder-1B2A4A?style=for-the-badge&logo=projectdiscovery&logoColor=white)
+
+**Reverse Engineering · Forensics**
+&nbsp;
+![Ghidra](https://img.shields.io/badge/Ghidra-CF2A27?style=for-the-badge)
+![JADX](https://img.shields.io/badge/JADX-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Volatility](https://img.shields.io/badge/Volatility-5A2A82?style=for-the-badge)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-3268C7?style=for-the-badge&logo=wazuh&logoColor=white)
+![Snort](https://img.shields.io/badge/Snort-EE2A7B?style=for-the-badge)
 
-**Platform & Tooling**
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
-![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+**Languages · Platforms**
+&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Kali](https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Arch](https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 &nbsp;Featured work
+## 🚀 &nbsp;Featured Work
 
-> ### 🔐 Security Templates Toolkit &nbsp;·&nbsp; `secsuite.sh`
+> ### 🔒 &nbsp;Security Templates Toolkit &nbsp;·&nbsp; `secsuite.sh` &nbsp;<sub>`private` · available on request</sub>
 > A **DAST + SAST bug-bounty automation suite** — one command takes a target from recon to submission-ready PoC.
->
 > `subdomains → live-host gate → recon-extra → crawl → nuclei → vuln-extra → dedupe → CONFIRM → PoC → dashboard`
->
-> **~150 integrated tools** · **273 tuned nuclei templates** + community feeds · offline installer ·
-> favicon→Shodan pivot · deep-JS secret mining · headless **Autorize** access-control testing ·
-> **differential false-positive confirmation** · auto-generated PoCs + one shareable HTML dashboard ·
-> a full SAST side (secrets, SCA, SBOM, CI/CD supply-chain, malicious-package detection).
+> **~150 integrated tools** · **273 tuned nuclei templates** + community feeds · offline installer · favicon→Shodan pivot ·
+> deep-JS secret mining · headless **Autorize** access-control testing · **differential false-positive confirmation** ·
+> auto-generated PoCs + one shareable HTML dashboard · full SAST side (secrets · SCA · SBOM · CI/CD supply-chain · malicious-package).
+
+> ### 🔗 &nbsp;[universal-re-skill](https://github.com/FURQANAHMAD34/universal-re-skill) &nbsp;<sub>`public`</sub>
+> **Universal reverse engineering & vulnerability detection** — Android · iOS · Windows PE · Linux ELF · macOS Mach-O · .NET.
+> Auto-detects the target format, runs the right toolchain, and works with Claude Code, Cursor, Windsurf, Copilot, Aider & any LLM.
+
+> ### 🔒 &nbsp;Dorime Defender &nbsp;<sub>`private` · Final Year Project</sub>
+> **AI-powered runtime vulnerability detection & patching** — a hybrid static + dynamic detection engine that unifies
+> open-source security tools and suggests automated runtime patches for developers.
+
+> ### 🔗 &nbsp;[CPTS-cheatsheet](https://github.com/FURQANAHMAD34/CPTS-cheatsheet) &nbsp;<sub>`public`</sub>
+> A practical **HackTheBox Certified Penetration Tester Specialist** cheat-sheet — attack paths, commands, and methodology notes.
+
+---
+
+## 🏆 &nbsp;Highlights & Achievements
+
+- 🥇 **Winner — Cyber Storm 2024**, Air University &nbsp;·&nbsp; 🥈 Runner-up Cyber Storm 2023 &nbsp;·&nbsp; 🥈 Runner-up Air Tech 2024
+- 🌍 **BlackHat MEA Finalist 2024** & Qualifier 2023 (Riyadh, KSA)
+- 🚩 **3rd** — CASE CTF (Sir Syed Institute) &nbsp;·&nbsp; **4th** — NASCON CTF (FAST University)
+- 👥 **Blue / Red Team Lead — AUCSS**, Air University &nbsp;·&nbsp; Web-Dev Head, Air Astronomical Society
+- 📄 **IEEE Xplore publication (2023)** — *Smart Cities: A Novel Framework for Energy Production & Harvesting using Renewable Energy*
+- 🔓 Responsibly disclosed a **critical authentication bypass** (full admin access PoC) on confidential government infrastructure
+
+---
+
+## 📜 &nbsp;Certifications
+
+![TCM PEH](https://img.shields.io/badge/TCM-Practical_Ethical_Hacking-2E86DE?style=flat-square)
+![TCM Web](https://img.shields.io/badge/TCM-Web_App_Security-2E86DE?style=flat-square)
+![TCM PMAT](https://img.shields.io/badge/TCM-Practical_Malware_Analysis_&_Triage-2E86DE?style=flat-square)
+![TCM WinPriv](https://img.shields.io/badge/TCM-Windows_Privilege_Escalation-2E86DE?style=flat-square)
+![TCM LinPriv](https://img.shields.io/badge/TCM-Linux_Privilege_Escalation-2E86DE?style=flat-square)
+![CRTA](https://img.shields.io/badge/Cyber_Warfare_Labs-Certified_Red_Team_Analyst-C0392B?style=flat-square)
+![Kali](https://img.shields.io/badge/Udemy-Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 
 ---
 
@@ -114,11 +163,10 @@ $ echo $CREED
 
 <div align="center">
 
+<a href="https://www.linkedin.com/in/furqan-ahmad-32b4001b5"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
 <a href="mailto:isrisro311@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
-<!-- edit these to your real handles, or delete the ones you don't use -->
 <a href="https://github.com/FURQANAHMAD34"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
-<a href="#"><img src="https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white" alt="hackerone"/></a>
-<a href="#"><img src="https://img.shields.io/badge/X_/_Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="x"/></a>
+<a href="https://ieeexplore.ieee.org"><img src="https://img.shields.io/badge/IEEE_Xplore-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="ieee"/></a>
 
 <br/><br/>
 
