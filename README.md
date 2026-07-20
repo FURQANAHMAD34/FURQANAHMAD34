@@ -15,6 +15,12 @@
 <img src="https://img.shields.io/badge/📄_IEEE_Published-00629B?style=flat-square&logo=ieee&logoColor=white" alt="ieee"/>
 <img src="https://komarev.com/ghpvc/?username=FURQANAHMAD34&label=Profile%20views&color=17b3a6&style=flat-square" alt="views"/>
 
+<br/><br/>
+
+<img src="https://img.shields.io/badge/🔬_Creator-Universal_Reverse--Engineering_Skill_for_AI_Assistants-0b4f66?style=for-the-badge" alt="creator"/>
+<br/>
+<sub>Android · iOS · Windows PE · Linux ELF · macOS Mach-O · .NET &nbsp;—&nbsp; decompile + vuln-scan + working PoC, for any LLM</sub>
+
 </div>
 
 ---
@@ -47,7 +53,7 @@ $ echo $CREED
 | 🔴 Offensive Security | 🧬 Reverse Engineering & Malware |
 |---|---|
 | Web · API · Network · Cloud pentesting | Static & dynamic analysis (Windows / Linux binaries) |
-| Active Directory exploitation & privilege escalation | Android APK reverse engineering (Ghidra · JADX) |
+| Active Directory exploitation & privilege escalation | Android APK/XAPK & iOS IPA reverse engineering (jadx · class-dump · Frida) |
 | Binary exploitation (buffer overflow, heap) | Memory forensics & IOC development |
 | Attack-surface mapping & reconnaissance | Deobfuscation & protection-bypass techniques |
 
@@ -97,16 +103,22 @@ $ echo $CREED
 
 ## 🚀 &nbsp;Featured Work
 
+> ### 🧬 &nbsp;[Universal Reverse-Engineering Skill](https://github.com/FURQANAHMAD34/universal-re-skill) &nbsp;<sub>`public` · ⭐ flagship</sub>
+> An **AI-agnostic plugin/skill** that gives any AI coding assistant **expert-level reverse engineering, 40+ vulnerability classes, and working PoC-exploit generation** across **every major binary format** — with all 40+ tools auto-installed.
+>
+> - 📱 **Android (APK / XAPK):** jadx / apktool / dex2jar decompile → **Frida SSL-pinning bypass**, **root-detection bypass**, SMS/OTP interception, WebView-bridge & exported-component abuse, hardcoded-key scan
+> - 🍎 **iOS (IPA / Mach-O):** class-dump / otool → **Frida method hooks & SSL bypass**, codesign checks
+> - 🪟🐧 **Windows PE/.NET · Linux ELF · macOS Mach-O · source (C/Py/Java/Go/C#):** radare2 / ilspycmd / checksec / pwntools → BOF offsets, ROP gadgets, deserialization (ysoserial), SQLi, binary-hardening audit
+> - 🤖 Runs on **Claude Code · Cursor · Windsurf · GitHub Copilot · Aider · Codex CLI · Amazon Q — and any LLM**
+>
+> <a href="https://github.com/FURQANAHMAD34/universal-re-skill"><img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square"/></a> <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square"/> <img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=flat-square&logo=githubcopilot&logoColor=white"/> <img src="https://img.shields.io/badge/Windsurf-09B6A2?style=flat-square"/> <img src="https://img.shields.io/badge/Aider-14B8A6?style=flat-square"/> <img src="https://img.shields.io/badge/Amazon_Q-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/> <img src="https://img.shields.io/badge/Frida-E63329?style=flat-square"/> <img src="https://img.shields.io/badge/Ghidra-CF2A27?style=flat-square"/> <img src="https://img.shields.io/badge/radare2-5A2A82?style=flat-square"/>
+
 > ### 🔒 &nbsp;Security Templates Toolkit &nbsp;·&nbsp; `secsuite.sh` &nbsp;<sub>`private` · available on request</sub>
 > A **DAST + SAST bug-bounty automation suite** — one command takes a target from recon to submission-ready PoC.
 > `subdomains → live-host gate → recon-extra → crawl → nuclei → vuln-extra → dedupe → CONFIRM → PoC → dashboard`
 > **~150 integrated tools** · **273 tuned nuclei templates** + community feeds · offline installer · favicon→Shodan pivot ·
 > deep-JS secret mining · headless **Autorize** access-control testing · **differential false-positive confirmation** ·
 > auto-generated PoCs + one shareable HTML dashboard · full SAST side (secrets · SCA · SBOM · CI/CD supply-chain · malicious-package).
-
-> ### 🔗 &nbsp;[universal-re-skill](https://github.com/FURQANAHMAD34/universal-re-skill) &nbsp;<sub>`public`</sub>
-> **Universal reverse engineering & vulnerability detection** — Android · iOS · Windows PE · Linux ELF · macOS Mach-O · .NET.
-> Auto-detects the target format, runs the right toolchain, and works with Claude Code, Cursor, Windsurf, Copilot, Aider & any LLM.
 
 > ### 🔒 &nbsp;Dorime Defender &nbsp;<sub>`private` · Final Year Project</sub>
 > **AI-powered runtime vulnerability detection & patching** — a hybrid static + dynamic detection engine that unifies
@@ -166,6 +178,7 @@ $ echo $CREED
 <a href="https://www.linkedin.com/in/furqan-ahmad-32b4001b5"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
 <a href="mailto:isrisro311@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
 <a href="https://github.com/FURQANAHMAD34"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
+<a href="https://devyforge.com"><img src="https://img.shields.io/badge/devyforge.com-0b4f66?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="site"/></a>
 <a href="https://ieeexplore.ieee.org"><img src="https://img.shields.io/badge/IEEE_Xplore-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="ieee"/></a>
 
 <br/><br/>
