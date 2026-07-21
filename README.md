@@ -21,6 +21,12 @@
 <br/>
 <sub>Android · iOS · Windows PE · Linux ELF · macOS Mach-O · .NET &nbsp;—&nbsp; decompile + vuln-scan + working PoC, for any LLM</sub>
 
+<br/><br/>
+
+<img src="https://img.shields.io/badge/🛡️_Creator-Security_Templates_Toolkit_·_secsuite.sh-17b3a6?style=for-the-badge" alt="creator2"/>
+<br/>
+<sub>DAST + SAST bug-bounty automation &nbsp;—&nbsp; recon → scan → CONFIRM → PoC · 285 nuclei templates · ~150 tools</sub>
+
 </div>
 
 ---
@@ -124,9 +130,15 @@ $ echo $CREED
 >
 > <a href="https://github.com/FURQANAHMAD34/security-templates"><img src="https://img.shields.io/badge/secsuite.sh-0b4f66?style=flat-square"/></a> <img src="https://img.shields.io/badge/DAST_%2B_SAST-17b3a6?style=flat-square"/> <img src="https://img.shields.io/badge/285_nuclei_templates-CF2A27?style=flat-square"/> <img src="https://img.shields.io/badge/~150_tools-2E8B57?style=flat-square"/> <img src="https://img.shields.io/badge/Nuclei-2E8B57?style=flat-square&logo=projectdiscovery&logoColor=white"/> <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white"/> <img src="https://img.shields.io/badge/Semgrep-1B2A4A?style=flat-square"/> <img src="https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white"/>
 
-> ### 🔒 &nbsp;Dorime Defender &nbsp;<sub>`private` · Final Year Project</sub>
-> **AI-powered runtime vulnerability detection & patching** — a hybrid static + dynamic detection engine that unifies
-> open-source security tools and suggests automated runtime patches for developers.
+> ### 🛡️ &nbsp;[Dorime Defender](https://github.com/FURQANAHMAD34/final-fyp) &nbsp;<sub>`public` · 🎓 Final Year Project</sub>
+> **AI-powered vulnerability detection & auto-patching** — a hybrid **static + dynamic** AppSec engine that unifies open-source scanners and closes the loop from *finding* → *applied fix*, shipped as a **web dashboard** *and* a **VS Code extension**.
+>
+> - 🔍 **Static + dynamic:** source-code analysis merged with running-app scanning (orchestrates **commix**, **dirsearch** & more)
+> - 🤖 **AI patch generation:** turns a finding into a concrete code fix you review and apply
+> - 🧩 **VS Code extension:** real-time inline vulnerability highlighting + one-click patch while you code
+> - 📊 **Web dashboard:** launch scans, triage merged findings, manage patches, track history
+>
+> <a href="https://github.com/FURQANAHMAD34/final-fyp"><img src="https://img.shields.io/badge/Static_%2B_Dynamic-0b4f66?style=flat-square"/></a> <img src="https://img.shields.io/badge/AI_patching-17b3a6?style=flat-square"/> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
 
 > ### 🌐 &nbsp;[Portfolio Website](https://hackersolo.netlify.app/) &nbsp;<sub>`live` · Netlify</sub>
 > My **Cyber Security Analyst portfolio** — experience, projects, certifications & achievements in one place.
