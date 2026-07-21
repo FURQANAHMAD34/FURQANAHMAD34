@@ -2,30 +2,34 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b4f66,100:17b3a6&height=200&section=header&text=Furqan%20Ahmad&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Cyber%20Security%20Analyst%20%C2%B7%20Offensive%20Security%20%C2%B7%20Reverse%20Engineering%20%C2%B7%20Malware%20Analysis&descSize=17&descAlignY=58" alt="header"/>
+<!-- ░▒▓█ cyber terminal header █▓▒░ -->
+<h3><samp>┌──(&nbsp;<a href="https://github.com/FURQANAHMAD34">furqan</a>㉿offsec&nbsp;)─[&nbsp;~/red-team&nbsp;]</samp></h3>
+<h1><samp>└─$ whoami &nbsp;→&nbsp; <b>Furqan Ahmad</b> <img src="https://img.shields.io/badge/_-00F5D4?style=flat-square" height="14"/></samp></h1>
 
-<a href="https://github.com/FURQANAHMAD34">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=17B3A6&center=true&vCenter=true&width=760&lines=Offensive+Security+%C2%B7+Pentesting+%C2%B7+Red+Team;Reverse+Engineering+%26+Malware+Analysis;Recon+%E2%86%92+Exploit+%E2%86%92+Verify+%E2%86%92+Report;BlackHat+MEA+Finalist+%2724+%C2%B7+IEEE+Published;Authorized+testing+only+%E2%80%94+hack+responsibly" alt="typing" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=900&color=00F5D4&center=true&vCenter=true&width=800&lines=Offensive+Security+%C2%B7+Pentesting+%C2%B7+Red+Team;Reverse+Engineering+%26+Malware+Analysis;Recon+%E2%86%92+Exploit+%E2%86%92+Verify+%E2%86%92+Report;BlackHat+MEA+Finalist+%2724+%C2%B7+IEEE+Published;Authorized+testing+only+%E2%80%94+hack+responsibly" alt="typing" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/📍_Islamabad,_Pakistan-0b4f66?style=flat-square" alt="loc"/>
-<img src="https://img.shields.io/badge/🏆_BlackHat_MEA_Finalist_2024-000000?style=flat-square" alt="bhmea"/>
-<img src="https://img.shields.io/badge/📄_IEEE_Published-00629B?style=flat-square&logo=ieee&logoColor=white" alt="ieee"/>
-<img src="https://komarev.com/ghpvc/?username=FURQANAHMAD34&label=Profile%20views&color=17b3a6&style=flat-square" alt="views"/>
+<img src="https://img.shields.io/badge/📍_Islamabad,_Pakistan-0d1117?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/🏆_BlackHat_MEA_Finalist_'24-0d1117?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/📄_IEEE_Published-0d1117?style=flat-square&labelColor=0d1117&logo=ieee&logoColor=00F5D4"/>
+<img src="https://komarev.com/ghpvc/?username=FURQANAHMAD34&label=profile+views&color=00F5D4&style=flat-square"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/🔬_Creator-Universal_Reverse--Engineering_Skill_for_AI_Assistants-0b4f66?style=for-the-badge" alt="creator"/>
-<br/>
-<sub>Android · iOS · Windows PE · Linux ELF · macOS Mach-O · .NET &nbsp;—&nbsp; decompile + vuln-scan + working PoC, for any LLM</sub>
+<!-- ⚡ built & maintained by me ⚡ -->
+<img src="https://img.shields.io/badge/🔬_CREATOR-Universal_Reverse--Engineering_Skill-0d1117?style=for-the-badge&labelColor=CF2A27"/>
+<br/><sub>Android · iOS · Windows PE · Linux ELF · macOS Mach-O · .NET &nbsp;—&nbsp; decompile + vuln-scan + working PoC, for any LLM</sub>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/🛡️_Creator-Security_Templates_Toolkit_·_secsuite.sh-17b3a6?style=for-the-badge" alt="creator2"/>
-<br/>
-<sub>DAST + SAST bug-bounty automation &nbsp;—&nbsp; recon → scan → CONFIRM → PoC · 285 nuclei templates · ~150 tools</sub>
+<img src="https://img.shields.io/badge/🛡️_CREATOR-Security_Templates_Toolkit_·_secsuite.sh-0d1117?style=for-the-badge&labelColor=17B3A6"/>
+<br/><sub>DAST + SAST bug-bounty automation &nbsp;—&nbsp; recon → scan → CONFIRM → PoC · 285 nuclei templates · ~150 tools</sub>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/⚔️_CREATOR-Dorime_Defender-0d1117?style=for-the-badge&labelColor=8A2BE2"/>
+<br/><sub>AI-powered vuln detection &amp; auto-patching &nbsp;—&nbsp; hybrid static + dynamic · VS Code extension + web dashboard</sub>
 
 </div>
 
@@ -173,16 +177,16 @@ $ echo $CREED
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=FURQANAHMAD34&show_icons=true&hide_border=true&theme=chartreuse-dark&icon_color=17b3a6&title_color=17b3a6&count_private=true" alt="stats"/>
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FURQANAHMAD34&layout=compact&hide_border=true&theme=chartreuse-dark&title_color=17b3a6&langs_count=8" alt="langs"/>
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=FURQANAHMAD34&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=39FF14&text_color=C9D1D9&count_private=true" alt="stats"/>
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FURQANAHMAD34&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F5D4&text_color=C9D1D9&langs_count=8" alt="langs"/>
 
 <br/>
 
-<img height="165" src="https://streak-stats.demolab.com?user=FURQANAHMAD34&hide_border=true&theme=chartreuse-dark&ring=17b3a6&fire=17b3a6&currStreakLabel=17b3a6" alt="streak"/>
+<img height="165" src="https://streak-stats.demolab.com?user=FURQANAHMAD34&hide_border=true&background=0D1117&stroke=00F5D4&ring=39FF14&fire=39FF14&currStreakLabel=00F5D4&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="streak"/>
 
 <br/>
 
-<img width="88%" src="https://github-profile-trophy-eight.vercel.app/?username=FURQANAHMAD34&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=6" alt="trophies"/>
+<img width="88%" src="https://github-profile-trophy-eight.vercel.app/?username=FURQANAHMAD34&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=6" alt="trophies"/>
 
 </div>
 
@@ -200,8 +204,10 @@ $ echo $CREED
 
 <br/><br/>
 
-<i>⚡ &nbsp;“Recon is where the bugs hide. Verification is where the trust is earned.” &nbsp;⚡</i>
+<code>⚡ &nbsp;"Recon is where the bugs hide. Verification is where the trust is earned." &nbsp;⚡</code>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:17b3a6,100:0b4f66&height=100&section=footer" alt="footer"/>
+<br/><br/>
+
+<samp>root@furqan:~# <b>exit</b> &nbsp;—&nbsp; thanks for scrolling · authorized testing only 🛡️</samp>
 
 </div>
