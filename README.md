@@ -113,20 +113,24 @@ $ echo $CREED
 >
 > <a href="https://github.com/FURQANAHMAD34/universal-re-skill"><img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square"/></a> <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square"/> <img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=flat-square&logo=githubcopilot&logoColor=white"/> <img src="https://img.shields.io/badge/Windsurf-09B6A2?style=flat-square"/> <img src="https://img.shields.io/badge/Aider-14B8A6?style=flat-square"/> <img src="https://img.shields.io/badge/Amazon_Q-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/> <img src="https://img.shields.io/badge/Frida-E63329?style=flat-square"/> <img src="https://img.shields.io/badge/Ghidra-CF2A27?style=flat-square"/> <img src="https://img.shields.io/badge/radare2-5A2A82?style=flat-square"/>
 
-> ### 🔒 &nbsp;Security Templates Toolkit &nbsp;·&nbsp; `secsuite.sh` &nbsp;<sub>`private` · available on request</sub>
-> A **DAST + SAST bug-bounty automation suite** — one command takes a target from recon to submission-ready PoC.
-> `subdomains → live-host gate → recon-extra → crawl → nuclei → vuln-extra → dedupe → CONFIRM → PoC → dashboard`
-> **~150 integrated tools** · **273 tuned nuclei templates** + community feeds · offline installer · favicon→Shodan pivot ·
-> deep-JS secret mining · headless **Autorize** access-control testing · **differential false-positive confirmation** ·
-> auto-generated PoCs + one shareable HTML dashboard · full SAST side (secrets · SCA · SBOM · CI/CD supply-chain · malicious-package).
+> ### 🔒 &nbsp;[Security Templates Toolkit](https://github.com/FURQANAHMAD34/security-templates) &nbsp;·&nbsp; `secsuite.sh` &nbsp;<sub>`public` · ⭐ flagship</sub>
+> A **one-command DAST + SAST bug-bounty automation suite** — takes a target from recon to submission-ready PoC, with a **HackTricks / PortSwigger-grounded** detection engine and **~150 auto-installed tools**.
+>
+> - 🌐 **Web pipeline:** `subdomains → live-host gate → recon-extra → crawl → nuclei → vuln-extra → dedupe → CONFIRM → PoC → dashboard` · **285 tuned nuclei templates** + community feeds · favicon→Shodan pivot · deep-JS secret mining · headless **Autorize** access-control (IDOR/BOLA) · **WAF auto-detect + bypass arming**
+> - 🛰️ **Network layer** (`net-recon`, pops a 2nd terminal): IP discovery → **hunt the real origin behind the CDN** → **prove the backend IP** (`curl --resolve` vs baseline) → nmap TCP + UDP ports → per-service NSE / vulners / testssl + **safe unauth-service & default-cred probes for ~50 services** (Docker · k8s · Redis · Mongo · Elasticsearch · Jenkins …)
+> - 🧨 **RCE confirmation:** upgrades cmdi / SSTI primitives to **CONFIRMED-EXEC** with a safe deterministic arithmetic marker (no real command run) + auto manual-PoC · **differential false-positive killer**
+> - 🔬 **Full SAST side:** secrets · SCA · SBOM · CI/CD supply-chain · malicious-package detection (semgrep · trivy · osv · guarddog …) · offline ZIP installer for Fedora
+> - 🧠 **HackTricks methodology baked in** — per-input-surface detection with **response-shaped signals** (no reflected-input false positives)
+>
+> <a href="https://github.com/FURQANAHMAD34/security-templates"><img src="https://img.shields.io/badge/secsuite.sh-0b4f66?style=flat-square"/></a> <img src="https://img.shields.io/badge/DAST_%2B_SAST-17b3a6?style=flat-square"/> <img src="https://img.shields.io/badge/285_nuclei_templates-CF2A27?style=flat-square"/> <img src="https://img.shields.io/badge/~150_tools-2E8B57?style=flat-square"/> <img src="https://img.shields.io/badge/Nuclei-2E8B57?style=flat-square&logo=projectdiscovery&logoColor=white"/> <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white"/> <img src="https://img.shields.io/badge/Semgrep-1B2A4A?style=flat-square"/> <img src="https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white"/>
 
 > ### 🔒 &nbsp;Dorime Defender &nbsp;<sub>`private` · Final Year Project</sub>
 > **AI-powered runtime vulnerability detection & patching** — a hybrid static + dynamic detection engine that unifies
 > open-source security tools and suggests automated runtime patches for developers.
 
-> ### 🌐 &nbsp;[Portfolio Website](https://furqanahmad34.github.io/furqan-portfolio/) &nbsp;<sub>`live` · GitHub Pages</sub>
+> ### 🌐 &nbsp;[Portfolio Website](https://hackersolo.netlify.app/) &nbsp;<sub>`live` · Netlify</sub>
 > My **Cyber Security Analyst portfolio** — experience, projects, certifications & achievements in one place.
-> &nbsp; → [furqanahmad34.github.io/furqan-portfolio](https://furqanahmad34.github.io/furqan-portfolio/)
+> &nbsp; → [hackersolo.netlify.app](https://hackersolo.netlify.app/)
 
 ---
 
